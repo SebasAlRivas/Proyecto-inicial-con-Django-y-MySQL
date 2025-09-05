@@ -1,0 +1,13 @@
+# Carpetas y archivos de Django
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Archivos de la base de datos local (SQLite, si la tuvieras)
+db.sqlite3
+
+# Archivos de configuración y de logs
+.env
+*.log
